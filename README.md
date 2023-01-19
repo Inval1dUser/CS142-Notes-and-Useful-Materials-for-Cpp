@@ -1,4 +1,4 @@
-# CS142 Notes and Usefull C++ Resources and Materials
+# CS142 Notes and Useful C++ Resources and Materials
 #### Please let me know if there is anything you would like me to add
 --------
 ##### - Note: This is just a list of stuff that I found personally useful
