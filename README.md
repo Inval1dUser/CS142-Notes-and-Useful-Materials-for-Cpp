@@ -25,7 +25,7 @@
 *Out of the Cheat Sheets/References and the Learning Tools, I would recommend using [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/) for both purposes (as both a reference and practice tool).*
 
 ## Other Lists
-*Please note that these other lists are almost all for things other than learning, such as frameworks, libraries, engines, and other things of that nature*
+*Please note that these lists are almost all for things other than learning, such as frameworks, libraries, engines, and other things of that nature*
 
   - [Awesome-C++](https://github.com/fffaraz/awesome-cpp) - I've noticed this one being the most linked-to list when asked about C++ resources
   - [Projects](https://github.com/karan/Projects) - List of projects that anyone can do/solve - This could also go with the learning tools tbh.
