@@ -9,7 +9,7 @@
 * [GeeksForGeeks C++ Cheat Sheet](https://www.geeksforgeeks.org/c-plus-plus/) - I like this one the most
 * [Quickref.me for C++](https://quickref.me/cpp) - This isn't the most in-depth resource out there, but it is a good quick reference cheat sheet. 
   * They also have a [Github page](https://github.com/Fechin/reference/blob/main/source/_posts/cpp.md)
-* [Hacking C++](https://hackingcpp.com/tags/article.html)
+* [Hacking C++](https://hackingcpp.com/tags/article.html) - Pretty good resource for infographics 
 * [C++ Reference](https://en.cppreference.com/w/) - 
 * [CPlusPlus](https://cplusplus.com/)
 
