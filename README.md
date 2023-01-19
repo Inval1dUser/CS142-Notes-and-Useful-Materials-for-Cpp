@@ -7,19 +7,19 @@
 
 - ### Cheat Sheets/Guides/References
   - [How to Program in C++](http://www.cheat-sheets.org/saved-copy/how2cpp.20210603.html)
-  - [GeeksForGeeks C++ Cheat Sheet](https://www.geeksforgeeks.org/c-plus-plus/)🔥
+  - [GeeksForGeeks C++ Cheat Sheet](https://www.geeksforgeeks.org/c-plus-plus/) - I recommend this one
   - [Quickref.me for C++](https://quickref.me/cpp) - This isn't the most in-depth resource out there, but it is a good quick reference cheat sheet. 
       - They also have a [Github page](https://github.com/Fechin/reference/blob/main/source/_posts/cpp.md)
   - [Hacking C++](https://hackingcpp.com/tags/article.html)
-  - [C++ Reference](https://en.cppreference.com/w/)🔥
+  - [C++ Reference](https://en.cppreference.com/w/) - I also recommend this one
   - [CPlusPlus](https://cplusplus.com/)
   
 - ### Websites/Learning Tools
   - [Learn C++ by Example](https://www.cbyexample.com/) 
   - [GeeksForGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
-    - This is the same website as stated previously, but I am putting it again as it has a really good practice/learning tool
+    - This is the same website as stated previously, but I am putting it here again as it has a really good practice/learning tool
   - [HackerRank for C++](https://www.hackerrank.com/domains/cpp)
-    - In my opinion, better for practicing than [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/), but it does not have any of the reference tools.
+    - In my opinion, better for practicing than [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/), but it does not have any of the same reference resources.
     
 - ### Other Lists, 
 #### Please note that these other lists are almost all for things other than learning, such as frameworks, libraries, engines, and other things of that nature. 
