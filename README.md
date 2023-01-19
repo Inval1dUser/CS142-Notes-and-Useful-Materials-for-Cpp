@@ -20,6 +20,10 @@
   - [HackerRank for C++](https://www.hackerrank.com/domains/cpp)
     - In my opinion, better for practicing than [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/), but it does not have any of the same reference resources.
 
+
+## Note
+*Out of the Cheat Sheets/References and the Learning Tools, I would recommend using [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/) for both purposes (as both a reference and practice tool).*
+
 ## Other Lists
 *Please note that these other lists are almost all for things other than learning, such as frameworks, libraries, engines, and other things of that nature*
 
