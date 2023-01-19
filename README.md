@@ -35,14 +35,10 @@
   - [Resources for Student Programmers](https://github.com/AchoArnold/discount-for-student-dev#readme) - Includes discounts and resources
 
 #
-#### I'm giving this one it's own section because of it's sheer size and broad expanse of programming and development related topics
+#### I'm giving this it's own section because of it's sheer size and broad expanse of programming and development related topics
 
   - [AwesomeLists](https://github.com/sindresorhus/awesome) - Resource Hub for Programming, Development, and Miscellaneous Topics
        - I don't know how useful this is for this specific class, but it's still worth poking around in   
-  
-  
-####
-- ##### Note: I will most likely be uploading my class notes onto here to have them backed up and archived in some way. If I do end up uploading them, feel free to use them for whatever.
 
 
 
