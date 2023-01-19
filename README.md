@@ -26,7 +26,7 @@
   - [Awesome-C++](https://github.com/fffaraz/awesome-cpp) - I've noticed this one being the most linked-to list when asked about C++ resources
   - [Projects](https://github.com/karan/Projects) - List of projects that anyone can do/solve - This could also go with the learning tools tbh.
   - [C++-Links](https://github.com/MattPD/cpplinks)
-  - [Lefticus' C++ guide](https://lefticus.gitbooks.io/cpp-best-practices/content/02-Use_the_Tools_Available.html) - Similar to [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp)
+  - [Lefticus' C++ guide](https://lefticus.gitbooks.io/cpp-best-practices/content/02-Use_the_Tools_Available.html) - Similar to [Awesome-C++](https://github.com/fffaraz/awesome-cpp)
   - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) - list of programming guides, manuals, and other free books & resources
   - [Resources for Student Programmers](https://github.com/AchoArnold/discount-for-student-dev#readme) - Includes discounts and resources
 
