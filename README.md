@@ -38,7 +38,7 @@
 #### I'm giving this it's own section because of it's sheer size and broad expanse of programming and development related topics
 
   - [AwesomeLists](https://github.com/sindresorhus/awesome) - Resource Hub for Programming, Development, and Miscellaneous Topics
-       - I don't know how useful this is for this specific class, but it's still worth poking around in   
+       - I don't know how useful this is for this specific class, but it's still worth poking around in.   
 
 
 
