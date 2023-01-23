@@ -12,6 +12,7 @@
 * [Hacking C++](https://hackingcpp.com/tags/article.html) - Pretty good resource for infographics 
 * [C++ Reference](https://en.cppreference.com/w/) - 
 * [CPlusPlus](https://cplusplus.com/)
+* [Some Dudes C++ Notes](https://github.com/ShiqiYu/CPP) - I don't know who this guy is but his notes are awesome. Be sure to check them out. 
 
 ## Websites/Learning Tools
   - [Learn C++ by Example](https://www.cbyexample.com/) 
