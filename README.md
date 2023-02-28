@@ -31,6 +31,7 @@
 ## Other Lists
 *Please note that these lists are almost all for things other than learning, such as frameworks, libraries, engines, and other things of that nature*
 
+  - [Awesome-Cheat-Sheets](https://github.com/EbookFoundation/free-programming-books/blob/main/more/free-programming-cheatsheets.md#cpp) - tbh I think this nullifies my whole list of cheatsheets here
   - [Awesome-C++](https://github.com/fffaraz/awesome-cpp) - I've noticed this one being the most linked-to list when asked about C++ resources
   - [Projects](https://github.com/karan/Projects) - List of projects that anyone can do/solve - This could also go with the learning tools tbh.
   - [C++-Links](https://github.com/MattPD/cpplinks)
