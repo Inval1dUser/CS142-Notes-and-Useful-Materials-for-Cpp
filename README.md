@@ -14,7 +14,7 @@
 * [CPlusPlus](https://cplusplus.com/)
 * [Some Dudes C++ Notes](https://github.com/ShiqiYu/CPP) - I don't know who this guy is but his notes are awesome. Be sure to check them out.
 * [Another C++ Cheat Sheet](https://github.com/mortennobel/cpp-cheatsheet)
-* [Notes for Proffesionals](https://goalkicker.com/) - Pretty cool
+* [Notes for Professionals](https://goalkicker.com/) - Pretty cool
 
 ## Websites/Learning Tools
   - [Learn C++ by Example](https://www.cbyexample.com/) 
